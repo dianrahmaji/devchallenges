@@ -1,0 +1,16 @@
+{
+  "name": "devchallenges",
+  "version": "1.0.0",
+  "description": "My attempts to solve challenges from devchallenges.io",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "keywords": [],
+  "author": "Dian Rahmaji <dianrahmaji@gmail.com>",
+  "license": "ISC",
+  "packageManager": "pnpm@8.14.1",
+  "engines": {
+    "node": ">=20"
+  }
+}
